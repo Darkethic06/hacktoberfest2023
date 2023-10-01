@@ -13,15 +13,14 @@ This repo is created for accepting new Merge request during Hacktoberfest 2023. 
 
 
 
-```http
+```
   git clone https://github.com/Darkethic06/python_projects.git
 
 ```
 
 
-```http
+```
   cd python_projects
-
 ```
 Create a New Folder by the project name. 
 
